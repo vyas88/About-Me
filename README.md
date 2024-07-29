@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 I am a Data Science student with a passion for exploring the intricate patterns hidden within data. Currently pursuing my Bachelor's degree, I aim to further my studies with a Master's abroad. My interests extend beyond academics; I enjoy traveling, cycling, and hiking. Aspiring to become a data scientist, I am committed to leveraging data science to drive innovative solutions and make a global impact.
 
 
